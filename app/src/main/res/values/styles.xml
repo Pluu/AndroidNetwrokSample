@@ -1,0 +1,18 @@
+<resources>
+
+	<!-- Base application theme. -->
+	<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+		<item name="colorPrimary">@color/style_color_primary</item>
+		<item name="colorPrimaryDark">@color/style_color_primary_dark</item>
+		<item name="colorAccent">@color/style_color_accent</item>
+		<item name="colorButtonNormal">@color/style_color_primary</item>
+		<item name="colorControlHighlight">@color/style_color_highlight</item>
+	</style>
+
+	<style name="DefaultBtn">
+		<item name="android:textColor">@android:color/white</item>
+		<item name="android:textStyle">bold</item>
+		<item name="android:textAllCaps">false</item>
+	</style>
+
+</resources>
