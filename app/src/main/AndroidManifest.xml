@@ -25,10 +25,6 @@
                 <category android:name="com.pluu.network.SAMPLE_CODE" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".volley.VolleyActivity"
-            android:label="@string/title_activity_volley" >
-        </activity>
     </application>
 
 </manifest>

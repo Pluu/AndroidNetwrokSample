@@ -60,11 +60,6 @@ public class VersionCheckActivity extends AppCompatActivity {
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
 		int id = item.getItemId();
-
-		if (id == R.id.action_settings) {
-			return true;
-		}
-
 		switch (id) {
 			case R.id.action_init:
 				editId.setText("com.coupang.mobile");
